@@ -197,7 +197,11 @@ Streamlit: For the beautiful web interface framework
 
 Scikit-learn: For machine learning algorithms
 
+---
+
 ⚠️ Facing Any Errors?
 If you encounter any issues or errors while using or deploying the project, feel free to consult AI tools like ChatGPT, Cursor, Blackbox, or Claude for quick debugging help and code explanations. They can help you fix bugs, improve logic, and better understand the code flow.
+
+---
 
 Happy Movie Watching! 🍿
