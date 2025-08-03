@@ -1,0 +1,10 @@
+# Ignore specific files in the model folder
+model/collab.pkl
+model/content.pkl
+model/count_vectorizer.pkl
+model/movie_list.pkl
+model/similarity.pkl
+
+# Ignore files in the main directory
+similarity.pkl
+movie_list.pkl
